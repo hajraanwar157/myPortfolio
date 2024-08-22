@@ -24,7 +24,7 @@ function Hero() {
           className="hero-resume"
           onClick={() =>
             window.open(
-              "https://drive.google.com/file/d/1RzUGxM-zqWmSFsT-8vcdI5C_heH3qOnH/view?usp=sharing",
+              "https://drive.google.com/file/d/1I5bUBmSoUyGB-NbTqJguHi3fFaOU6Mue/view?usp=sharing",
               "_blank"
             )
           }
